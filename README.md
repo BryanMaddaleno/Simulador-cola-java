@@ -22,7 +22,7 @@ Aplicar los conceptos fundamentales de estructuras de datos implementando desde 
 
 ## Instrucciones de Compilación y Ejecución
 ```
-javac Nodo.java Cliente.java Cola.java Pila.java Main.java
+javac Nodo.java Cliente.java Cola.java Pila.java Simulador.java
 java Main
 ```
 ## Estructura del Proyecto
