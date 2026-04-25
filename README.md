@@ -1,4 +1,4 @@
-# Examen Parcial - Estructuras de Datos
+# Proyecto #1 Colas y Pilas
 ## Información del Estudiante
 - **Nombre:** Bryan Alexander Gonzalez Maddaleno
 - **Carné:** 202503096
